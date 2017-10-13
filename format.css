@@ -1,0 +1,40 @@
+ul{
+  list-style-type: none;
+  margin: 0;
+  padding:0;
+}
+
+li a{
+   text-decoration: none;
+   text-transform: uppercase;
+   color:black;
+   display: block;
+   width: 200px;
+   height: 30px;
+   background-color: gray;
+}
+
+li a: hover{
+   background-color:pink;
+}
+
+#box-one{
+
+background-color:red;
+margin: 30px;
+padding: 20px;
+
+
+}
+
+#box-two{
+margin: 20px;
+background-color: blue;
+padding: 10px;
+}
+
+
+
+
+
+
